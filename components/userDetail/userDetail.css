@@ -1,0 +1,40 @@
+.detail-card{
+    width: 90%;
+    margin-top: 10px;
+}
+
+.display-cards{
+    display: inline-flex;
+    width: 100%;
+}
+
+.display-card{
+    width: 50%;
+    margin-top: 20px;
+    margin-right: 10%;
+}
+
+.thumb-nail-image{
+   width: 100%;
+}
+
+.card-content{
+    display: inline-flex;
+}
+
+.location-occupation-description{
+    margin-left: 2%;
+}
+
+#user-id{
+    text-align: center;
+    height: 60px;
+    font-size: 20px;
+}
+#link{
+    padding-top: 10px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-size: 25px;
+}
+
