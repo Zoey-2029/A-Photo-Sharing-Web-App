@@ -1,5 +1,5 @@
 # Full-satck Web Application - A Photo Sharing App
-This is a MEAR-stack photo-sharing web app on which users can register, log in, manage photos and connect with friends. 
+This is a MERN-stack photo-sharing web app on which users can register, log in, manage photos and connect with friends. 
 
 Go to my web app at http://www.ziyuesphotosharingapp.com./photo-share.html#/login-register.
 
