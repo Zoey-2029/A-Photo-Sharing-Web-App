@@ -13,7 +13,7 @@ npm install
 mongod
 node loadDatabase.js
 ```
-### start the Node.js web server
+### Start the Node.js web server
 ```
 node webServer.js & npm run build:w
 ```
